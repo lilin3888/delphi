@@ -1,0 +1,2 @@
+dis2min2=ddxyz.dot.ddxyz-&;
+&(sDelPhiPDB(iac)%rad3*fScale)**2;
